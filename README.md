@@ -33,9 +33,6 @@ Results and Visualizations
 - Visualizations for each analysis task are included in the script.
 - Results and insights obtained from the analysis are documented in the script.
 
-## Future Improvements
-
-- *(Optional: Add any plans or ideas for future improvements to the project)*
 
 ## Contributing
 
